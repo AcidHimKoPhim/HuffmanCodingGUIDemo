@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="WindowsFormsApplication1.TextHash"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"             
+             xmlns:Controls="clr-namespace:WPFExtensions.Controls;assembly=WPFExtensions"
+            >
+    <Grid>
+        <StackPanel Name="textBox" HorizontalAlignment="Left" MinHeight="400" Margin="0,0,0,0" VerticalAlignment="Top" Width="170" Orientation="Vertical" Height="390">
+        </StackPanel>
+
+    </Grid>
+</UserControl>

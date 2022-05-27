@@ -1,0 +1,139 @@
+c:\users\kimchi\documents\visual studio 2012\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\kimchi\documents\visual studio 2012\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\kimchi\documents\visual studio 2012\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\kimchi\documents\visual studio 2012\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\kimchi\documents\visual studio 2012\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\kimchi\documents\visual studio 2012\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\kimchi\documents\visual studio 2012\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\kimchi\documents\visual studio 2012\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\kimchi\documents\visual studio 2012\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HOME\Downloads\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HOME\Downloads\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HOME\Downloads\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HOME\Downloads\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HOME\Downloads\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HOME\Downloads\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Downloads\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HOME\Downloads\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HOME\Downloads\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Project\Huffman\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Project\Huffman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Project\Huffman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Project\Huffman\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Project\Huffman\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Project\Huffman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Project\Huffman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Project\Huffman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Project\Huffman\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Project\Huffman\WindowsFormsApplication_v3\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Project\Huffman\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1.exe
+D:\Project\Huffman\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1.pdb
+D:\Project\Huffman\WindowsFormsApplication_v3\bin\Debug\WindowsFormsApplication1.exe
+D:\Project\Huffman\WindowsFormsApplication_v3\bin\Debug\WindowsFormsApplication1.pdb
+D:\Project\Huffman\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Project\Huffman\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Project\Huffman\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Project\Huffman\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Project\Huffman\WindowsFormsApplication_v4\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Project\Huffman\WindowsFormsApplication_v4\obj\Debug\WindowsFormsApplication1.exe
+D:\Project\Huffman\WindowsFormsApplication_v4\obj\Debug\WindowsFormsApplication1.pdb
+D:\Project\Huffman\WindowsFormsApplication_v4\bin\Debug\WindowsFormsApplication1.exe
+D:\Project\Huffman\WindowsFormsApplication_v4\bin\Debug\WindowsFormsApplication1.pdb
+D:\Project\Huffman\WindowsFormsApplication_v4\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Project\Huffman\WindowsFormsApplication_v4\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Project\Huffman\WindowsFormsApplication_v4\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Project\Huffman\WindowsFormsApplication_v4\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\Microsoft.Msagl.dll
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\GraphSharp.Contracts.dll
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\GraphSharp.Controls.dll
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\GraphSharp.dll
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\Microsoft.Contracts.dll
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\QuickGraph.dll
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\WPFExtensions.dll
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\GraphSharp.pdb
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\GraphSharp.Contracts.pdb
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\obj\Debug\GraphSharpControl.baml
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\obj\Debug\GraphSharpControl.g.cs
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1_MarkupCompile.cache
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1.g.resources
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\GraphSharp.Sample.exe
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\bin\Debug\WPFToolkit.dll
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\obj\Debug\TextHash.baml
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\obj\Debug\TextHash.g.cs
+C:\Users\Nguyen Ngoc Nam\Downloads\WindowsFormsApplication_v3\WindowsFormsApplication_v3\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Project\Huffman\huffmancompressed\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Project\Huffman\huffmancompressed\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Project\Huffman\huffmancompressed\obj\Debug\TextHash.baml
+D:\Project\Huffman\huffmancompressed\obj\Debug\TextHash.g.cs
+D:\Project\Huffman\huffmancompressed\obj\Debug\WindowsFormsApplication1_MarkupCompile.cache
+D:\Project\Huffman\huffmancompressed\obj\Debug\GraphSharpControl.baml
+D:\Project\Huffman\huffmancompressed\obj\Debug\GraphSharpControl.g.cs
+D:\Project\Huffman\huffmancompressed\obj\Debug\WindowsFormsApplication1.g.resources
+D:\Project\Huffman\huffmancompressed\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Project\Huffman\huffmancompressed\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Project\Huffman\huffmancompressed\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Project\Huffman\huffmancompressed\bin\Debug\WindowsFormsApplication1.exe
+D:\Project\Huffman\huffmancompressed\bin\Debug\WindowsFormsApplication1.pdb
+D:\Project\Huffman\huffmancompressed\bin\Debug\GraphSharp.Contracts.dll
+D:\Project\Huffman\huffmancompressed\bin\Debug\GraphSharp.Controls.dll
+D:\Project\Huffman\huffmancompressed\bin\Debug\GraphSharp.dll
+D:\Project\Huffman\huffmancompressed\bin\Debug\GraphSharp.Sample.exe
+D:\Project\Huffman\huffmancompressed\bin\Debug\Microsoft.Contracts.dll
+D:\Project\Huffman\huffmancompressed\bin\Debug\QuickGraph.dll
+D:\Project\Huffman\huffmancompressed\bin\Debug\RibbonControlsLibrary.dll
+D:\Project\Huffman\huffmancompressed\bin\Debug\System.Windows.Controls.Theming.dll
+D:\Project\Huffman\huffmancompressed\bin\Debug\System.Windows.Controls.Theming.ExpressionDark.dll
+D:\Project\Huffman\huffmancompressed\bin\Debug\WPFExtensions.dll
+D:\Project\Huffman\huffmancompressed\bin\Debug\WPFToolkit.dll
+D:\Project\Huffman\huffmancompressed\bin\Debug\GraphSharp.pdb
+D:\Project\Huffman\huffmancompressed\bin\Debug\GraphSharp.Contracts.pdb
+D:\Project\Huffman\huffmancompressed\obj\Debug\WindowsFormsApplication1.exe
+D:\Project\Huffman\huffmancompressed\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\obj\Debug\GraphSharpControl.baml
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\obj\Debug\TextHash.baml
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\obj\Debug\GraphSharpControl.g.cs
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\obj\Debug\TextHash.g.cs
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\obj\Debug\WindowsFormsApplication1_MarkupCompile.cache
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\obj\Debug\WindowsFormsApplication1.g.resources
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\GraphSharp.Contracts.dll
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\GraphSharp.Controls.dll
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\GraphSharp.dll
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\GraphSharp.Sample.exe
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\Microsoft.Contracts.dll
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\QuickGraph.dll
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\System.Windows.Controls.Theming.dll
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\System.Windows.Controls.Theming.ExpressionDark.dll
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\WPFExtensions.dll
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\WPFToolkit.dll
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\GraphSharp.pdb
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\bin\Debug\GraphSharp.Contracts.pdb
+C:\Users\Nguyen Ngoc Nam\Desktop\huffmancompressed\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
