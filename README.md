@@ -7,7 +7,7 @@ This project was implemented from scratch by [AcidHimKoPhim](https://github.com/
 - C# 5.0
 
 
-## Use
+## Usage
 
 Open `WindowsFormsApplication1.sln` and run the project. 
 
